@@ -764,6 +764,7 @@
 /* MenuBar 
 ================================================== */
 .tl-menubar {
+  background: #737373;
   position: absolute;
   z-index: 11;
   text-align: center;
