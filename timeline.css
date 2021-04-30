@@ -1758,7 +1758,7 @@
 /* TL.TimeAxis
 ================================================== */
 .tl-timeaxis-background {
-  height: 39px;
+  height: 42px;
   width: 100%;
   position: absolute;
   bottom: 0;
@@ -1768,7 +1768,7 @@
   z-index: 2;
 }
 .tl-timeaxis {
-  height: 39px;
+  height: 42px;
   width: 100%;
   position: absolute;
   bottom: 0;
@@ -1778,7 +1778,7 @@
 .tl-timeaxis .tl-timeaxis-content-container {
   position: relative;
   bottom: 0;
-  height: 39px;
+  height: 42px;
 }
 .tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-major,
 .tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-minor {
